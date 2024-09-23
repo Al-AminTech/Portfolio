@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  { name: "My Approach", link: "#myapproach" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Real  Estate Website ",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -80,24 +80,24 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    title: "Cowryhost - Hosting Website",
+    des: "Get domains, SSL certificates, hosting, and email packages all in one place, making your online setup effortless and secure.",
+    img: "/pl.png",
+    iconLists: ["/re.svg", "/tail.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    title: "Cowryhost- Admin Panel",
+    des: "Easily manage users, create SSL, hosting, and email packages, and update permissions with a streamlined admin panel for full control and efficiency.",
+    img: "/pa.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
     title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    des: "Recreated the Apple iPhone 16 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
@@ -174,20 +174,20 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Assisted in the development of a web-based platform using React.js,  and Nextjs enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Fronted Enginner",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    desc: "Designed and developed Webiste Using Different Technologies.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
+    title: "Freelance Web Developer",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",

@@ -73,9 +73,9 @@ export const projects = [
   {
     id: 1,
     title: "AI Mock-Up Interviewer",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "Experience seamless interviews with my AI interviewer, designed to enhance your hiring process like a gentle drizzle on a calm day. It streamlines evaluations and delivers smooth, engaging conversations. Perfect for both recruiters and candidates to practice or assess skills efficiently.",
     img: "/ai.png",
-    iconLists: ["/next.svg", "/tail.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/neon.jpeg", "/drizzle.png"],
     link: "https://ai-interviewer--two.vercel.app/",
   },
   {
